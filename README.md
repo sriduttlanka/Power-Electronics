@@ -16,7 +16,7 @@ Reinforced Learning based DNN utilized to control Duty ratio of Boost converter 
 
 ---
 
-## 2. Multiphase VRM for System-on-Chip (SoC)
+## 2. Multiphase Buck Converter Based VRM for System-on-Chip (SoC)
 Adaptive Voltage Positioning (AVP) and Constant On-Time (COT) control for non linear and quick operating point shifting.
 
 <img width="1097" height="743" alt="image" src="https://github.com/user-attachments/assets/1969d7e9-6616-4361-9b14-d445cefb36d9" />
