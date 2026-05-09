@@ -29,13 +29,15 @@ Adaptive Voltage Positioning (AVP) and Constant On-Time (COT) control for non li
 ## 3. Bidirectional DC-DC Charger (2kW Dual Active Bridge)
 Large/small signal modeling and PI control for V2V emergency power transfer.
 
-(Drag and drop your DAB Schematic here)
+<img width="972" height="605" alt="image" src="https://github.com/user-attachments/assets/f38ec9a9-1b5c-4b3b-bd22-e838beca0da5" />
 
-(Drag and drop your relevant switching waveforms here)
+<img width="1003" height="678" alt="image" src="https://github.com/user-attachments/assets/7d146097-c2f5-436c-bb64-1464f7c9f55e" />
+
+
 
 ---
 
 ## 4. OnBoard Two-Wheeler EV Charger
-Passive PFC streamlining and Half-Bridge LLC ZVS thermal analysis across Wide-Bandgap devices.
+Passive PFC streamlining and Half-Bridge LLC thermal analysis across Wide-Bandgap devices.
 
-(Drag and drop your Thermal Modeling Graph or ZVS switching transitions here)
+
