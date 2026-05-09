@@ -38,6 +38,6 @@ Large/small signal modeling and PI control for V2V emergency power transfer.
 ---
 
 ## 4. OnBoard Two-Wheeler EV Charger
-Passive PFC streamlining and Half-Bridge LLC thermal analysis across Wide-Bandgap devices.
+Passive PFC correction and Half-Bridge LLC thermal analysis across Wide-Bandgap devices (Si, SiC and GaN).
 
 
