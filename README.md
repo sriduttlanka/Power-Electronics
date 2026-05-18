@@ -9,9 +9,10 @@ Below are the schematics, control models, and output waveforms validating the en
 ## 1. Deep Neural Network (DNN) Controlled PFC Converter
 Reinforced Learning based DNN utilized to control Duty ratio of Boost converter to achieve Unity Power Factor (Objective tested on RT Box for HIL validation. Work in progress).
 
-<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/b7f53a49-ce9f-422a-b141-d683c73baa3a" />
+<img width="4000" height="3000" alt="20260518_110054" src="https://github.com/user-attachments/assets/ca665e48-b83d-492b-9293-5f18f2999e05" />
+<img width="4000" height="3000" alt="20260518_110036" src="https://github.com/user-attachments/assets/f2a0c346-56cd-49cc-80fb-eb7f86e7ff30" />
+<img width="4000" height="3000" alt="20260518_105635" src="https://github.com/user-attachments/assets/7b097207-30a8-4729-83e5-63710237d7e8" />
 
-<img width="1012" height="746" alt="image" src="https://github.com/user-attachments/assets/0e34c10c-2bd1-445d-bfad-5e2c7ed82a5d" />
 
 
 ---
